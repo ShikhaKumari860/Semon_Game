@@ -2,27 +2,30 @@ This is a fun and interactive Simon Game built using HTML, CSS, and JavaScript. 
 
 
 🚀 Features
-🎨 Colorful UI with animations and sound
 
-🧠 Memory-based gameplay with increasing difficulty
+*   🎨 Colorful UI with animations and sound
 
-🖱️ Interactive button clicks and keypress to start
+*   🧠 Memory-based gameplay with increasing difficulty
 
-📱 Fully responsive for mobile and desktop
+*  🖱️ Interactive button clicks and keypress to start
+
+*   📱 Fully responsive for mobile and desktop
 
 🛠️ Technologies Used
-HTML5
 
-CSS3
+ *  HTML5
 
-JavaScript (DOM manipulation, event listeners, logic handling)
+ *  CSS3
+
+ *  JavaScript (DOM manipulation, event listeners, logic handling)
 
 🧠 What I Learned
-Handling user input and game logic
 
-Using timeouts and sequences in JavaScript
+*   Handling user input and game logic
 
-Working with audio and animations for UI feedback
+*   Using timeouts and sequences in JavaScript
 
-Building an interactive project from scratch
+*   Working with audio and animations for UI feedback
+
+*   Building an interactive project from scratch
 
